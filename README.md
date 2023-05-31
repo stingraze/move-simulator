@@ -1,5 +1,5 @@
 README for move-simulator by Tsubasa Kato  
-(C)Tsubasa Kato at Inspire Search Corporation  
+(C)Tsubasa Kato at Inspire Search Corporation 5/31/2023   
 https://www.inspiresearch.io/en  
 
 What this Python 3 script does  
